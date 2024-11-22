@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on various optimisation projects.
 - 💬 Ask me about MILP problems.
 - 📫 How to reach me : adrien.lamoureux.pro@outlook.com
-- ⚡ Fun fact : I love playing chess !
+- ⚡ Fun fact : I love playing videogames and chess !
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
